@@ -14,19 +14,9 @@ To sharpen web development fundamentals by rebuilding a real-world website from 
 
 ## 📌 Features
 
-- Fully responsive homepage
 - Header navigation with hover effects
 - Hero section, testimonials, call-to-actions, and footer
 - Visual accuracy to the original site
 - Modular and clean file structure
 
-> ⚠️ This project is for **educational purposes only** and is not affiliated with or endorsed by UsabilityHub.
 
-## 💻 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/usabilityhub-clone.git
